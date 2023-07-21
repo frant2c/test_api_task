@@ -1,0 +1,94 @@
+[
+  {
+    "username": "in_user1",
+    "email": "email1@invalid.com",
+    "name": "John",
+    "surname": "Doe",
+    "password_change": "password",
+    "password_repeat": "password"
+  },
+  {
+    "currency_code": "USD",
+    "email": "email1@invalid.com",
+    "name": "John",
+    "surname": "Doe",
+    "password_change": "password",
+    "password_repeat": "password"
+  },
+  {
+    "currency_code": "USD",
+    "username": "in_user2",
+    "name": "John",
+    "surname": "Doe",
+    "password_change": "password",
+    "password_repeat": "password"
+  },
+  {
+    "currency_code": "USD",
+    "username": "in_user3",
+    "email": "email1@invalid.com",
+    "surname": "Doe",
+    "password_change": "password",
+    "password_repeat": "password"
+  },
+  {
+    "currency_code": "USD",
+    "username": "in_user4",
+    "email": "email1@invalid.com",
+    "name": "John",
+    "password_change": "password",
+    "password_repeat": "password"
+  },
+  {
+    "currency_code": "USD",
+    "username": "in_user5",
+    "email": "email1@invalid.com",
+    "name": "John",
+    "surname": "Doe",
+    "password_repeat": "password"
+  },
+  {
+    "currency_code": "USD",
+    "username": "in_user6",
+    "email": "email1@invalid.com",
+    "name": "John",
+    "surname": "Doe",
+    "password_change": "password"
+  },
+  {
+    "currency_code": "USD",
+    "username": "use",
+    "email": "email1@invalid.com",
+    "name": "John",
+    "surname": "Doe",
+    "password_change": "password",
+    "password_repeat": "password"
+  },
+  {
+    "currency_code": "USD",
+    "username": "in_user8",
+    "email": "email1@invalid.com",
+    "name": "John",
+    "surname": "Doe",
+    "password_change": "pass",
+    "password_repeat": "password"
+  },
+  {
+    "currency_code": "USD",
+    "username": "in_user9",
+    "email": "email1@invalid.com",
+    "name": "John",
+    "surname": "Doe",
+    "password_change": "password",
+    "password_repeat": "pass"
+  },
+  {
+    "currency_code": "USD",
+    "username": "in_user10",
+    "email": "email1@invalid.com",
+    "name": "John",
+    "surname": "Doe",
+    "password_change": "pas",
+    "password_repeat": "pas"
+  }
+]

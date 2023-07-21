@@ -1,0 +1,110 @@
+[
+  {
+    "currency_code": "USD",
+    "username": "username1",
+    "email": "email1@example.com",
+    "name": "John",
+    "surname": "Doe",
+    "password_change": "password",
+    "password_repeat": "password"
+  },
+  {
+    "currency_code": "USD",
+    "username": "username2",
+    "email": "email2@example.com",
+    "name": "Jane",
+    "surname": "Smith",
+    "password_change": "password",
+    "password_repeat": "password"
+  },
+  {
+    "currency_code": "EUR",
+    "username": "username2",
+    "email": "email3@example.com",
+    "name": "John",
+    "surname": "Smith",
+    "password_change": "password",
+    "password_repeat": "password"
+  },
+  {
+    "currency_code": "DKK",
+    "username": "username4",
+    "email": "email4@example.com",
+    "name": "Jane",
+    "surname": "Doe",
+    "password_change": "password",
+    "password_repeat": "password"
+  },
+  {
+    "currency_code": "GBP",
+    "username": "username5",
+    "email": "email5@example.com",
+    "name": "John",
+    "surname": "Doe",
+    "password_change": "password",
+    "password_repeat": "password"
+  },
+  {
+    "currency_code": "SEK",
+    "username": "username6",
+    "email": "email6@example.com",
+    "name": "Jane",
+    "surname": "Doe",
+    "password_change": "password",
+    "password_repeat": "password"
+  },
+  {
+    "currency_code": "NOK",
+    "username": "username7",
+    "email": "email7@example.com",
+    "name": "Jane",
+    "surname": "Doe",
+    "password_change": "password",
+    "password_repeat": "password"
+  },
+  {
+    "currency_code": "CHF",
+    "username": "username8",
+    "email": "email8@example.com",
+    "name": "Jane",
+    "surname": "Doe",
+    "password_change": "password",
+    "password_repeat": "password"
+  },
+  {
+    "currency_code": "CAD",
+    "username": "use9",
+    "email": "email9@example.com",
+    "name": "Jane",
+    "surname": "Doe",
+    "password_change": "pass",
+    "password_repeat": "pass"
+  },
+  {
+    "currency_code": "AUD",
+    "username": "username10",
+    "email": "email10@example.com",
+    "name": "Jane",
+    "surname": "Doe",
+    "password_change": "pass",
+    "password_repeat": "pass"
+  },
+  {
+    "currency_code": "JPY",
+    "username": "username11",
+    "email": "email11@example.com",
+    "name": "Jane",
+    "surname": "Doe",
+    "password_change": "pass",
+    "password_repeat": "pas"
+  },
+  {
+    "currency_code": "CNY",
+    "username": "username12",
+    "email": "email12@example.com",
+    "name": "Jane",
+    "surname": "Doe",
+    "password_change": "password",
+    "password_repeat": "password"
+  }
+]
